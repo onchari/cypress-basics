@@ -1,0 +1,23 @@
+{
+  "name": "cypress-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onchari/cypress-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onchari/cypress-basics/issues"
+  },
+  "homepage": "https://github.com/onchari/cypress-basics#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
